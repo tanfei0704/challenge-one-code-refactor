@@ -19,6 +19,14 @@ In index.html file:
 6. Line 50: Change div to section and add alt to img;
 7. Line 60: Chang div to section
 8. Line 69: Chang div to section
-9. Line 78: Chang div to section
+9. Line 78: Chang div to section 
 10.Line 81: Add alt to img
 11.Line 88: Change class "footer" to footer
+
+# Usage
+1.create a folder;
+2.clone link "git@github.com:tanfei0704/challenge-one-code-refactor.git" in your foler on terminal;
+3.open index.html file;
+4.right click on mouse to look through on default broswer;
+
+Or you can directly copy& paste link "https://github.com/tanfei0704/challenge-one-code-refactor/settings/pages" on your broswer.
